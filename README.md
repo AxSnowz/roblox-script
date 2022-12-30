@@ -1,1 +1,1 @@
-GOTO MY USER AND SEARCH FOR ROBLOX-SCRIPT.LUA AND USE THIS, THIS IS A loadstring(game: SCRIPT
+Goto my user and search for roblox-script.lua and use it
